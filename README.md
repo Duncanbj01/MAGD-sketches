@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# MAGD 150 Assignments 
 
-You can use the [editor on GitHub](https://github.com/Duncanbj01/MAGD-sketches/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+This is a repository for my MAGD 150 class assignments. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Assignment 6: Organization 
 
-### Markdown
+This example shows how to create a random star background, as well as drawing various shapes and animating them. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Click to see the source code!](https://github.com/Duncanbj01/MAGD-sketches/blob/gh-pages/s21magd150lab06_Duncan/sketch.js)
 
-```markdown
-Syntax highlighted code block
+## Assignment 7: Objects
 
-# Header 1
-## Header 2
-### Header 3
+This example demonstrates how to make transparent shapes and randomize them so they appear around the sketch in random places, creating a fog effect. 
 
-- Bulleted
-- List
+[Click to see the source code!](https://github.com/Duncanbj01/MAGD-sketches/blob/gh-pages/s21magd150lab07_Duncan/sketch.js)
 
-1. Numbered
-2. List
+## Assignment 8: Type & Image
 
-**Bold** and _Italic_ and `Code` text
+This example shows how to load different fonts and images into a text. It also is an example of how to utilize different filters and use the create pdf function. 
 
-[Link](url) and ![Image](src)
-```
+[Click to see the source code!](https://github.com/Duncanbj01/MAGD-sketches/blob/gh-pages/s21magd150_lab08_Duncan/sketch.js)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Assignment 9: Sound & Video
 
-### Jekyll Themes
+This example shows how to import sound and video into a p5.js sketch. It also shows how to add effects to sound, create a button, and utilize html to create text. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Duncanbj01/MAGD-sketches/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Click to see the source code!](https://github.com/Duncanbj01/MAGD-sketches/blob/gh-pages/s21magd150lab09_Duncan/sketch.js)
 
-### Support or Contact
+## Assignment 10: 3D & Data
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This examples shows how to import basic 3D shapes with different textures, lighting, and material. It also demonstrates how to create a camera, and load a csv table into your p5.js sketch. 
+
+[Click to see the source code!](https://github.com/Duncanbj01/MAGD-sketches/blob/gh-pages/s21magd150lab10_Duncan/sketch.js)
